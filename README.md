@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub)
-- Live Site URL: (https://tip-calculator-app-main-pearl-eight.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub)
+- Live Site URL: (https://faq-accordion-card-main-eta-lilac.vercel.app/)
 
 ## My process
 
